@@ -1,0 +1,18 @@
+{
+  "name": "sql_to_s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "env-cmd -f ./.env node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1062.0",
+    "env-cmd": "^10.1.0",
+    "mysql": "^2.18.1"
+  }
+}
