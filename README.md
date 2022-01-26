@@ -29,6 +29,8 @@
 
 #### Note: Variable names used are listed in .env.sample
 
+#### Note: Old json files are overwritten by latest data.
+
 ## How to Setup S3 and Athena
 
 1. Create an S3 bucket with the name *S3_BUCKET* and region *S3_REGION*
