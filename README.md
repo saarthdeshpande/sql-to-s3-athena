@@ -1,5 +1,3 @@
-# sql-to-s3-athena
-
 # Push MySQL Data to AWS S3 + Athena for Metabase insights
 
 ### Please create a .env file with valid credentials.
